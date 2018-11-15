@@ -70,6 +70,7 @@ class Api::CoinsController < ApplicationController
 
       @final_t = @t
 
+
     if current_user   
       @coin = Coin.new(
        name: params[:name],
