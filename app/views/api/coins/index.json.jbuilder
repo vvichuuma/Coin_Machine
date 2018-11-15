@@ -1,0 +1,1 @@
+json.List_of_Coins @coins 
